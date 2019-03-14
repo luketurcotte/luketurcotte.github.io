@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Luke Turcotte"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,23 +9,27 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = ""
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+#organizations = [ { name = "Canadian Institute for Health Information", url = "http://cihi.ca" },
+#		{ name = "University of Waterloo", url = "http://uwaterloo.ca" } ]
 
+organizations = [ { name = "", url = "http://cihi.ca" },
+		{ name = "", url = "http://uwaterloo.ca" } ]
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "luke@turcotte.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Post-acute Care",
+  "Patient Flow",
+  "Case-mix Systems",
+  "Health Information Systems "
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,19 +38,19 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Aging, Health and Wellbeing"
+  institution = "University of Waterloo"
+  year = 2018
+
+[[education.courses]]
+  course = "MSc in Health Studies and Gerontology"
+  institution = "University of Waterloo"
+  year = 2014
+
+[[education.courses]]
+  course = "BSc in Health Studies and Gerontology"
+  institution = "University of Waterloo"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -61,17 +65,17 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/luketurcotte"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.ca/citations?user=HXsIl4wAAAAJ&hl"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/luketurcotte"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -82,6 +86,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Luke Turcotte is a [CIHR Health System Impact Fellow](http://www.cihr-irsc.gc.ca/e/51201.html) working jointly with the [Canadian Institute for Health Information](https://cihi.ca) and the [University of Waterloo](https://uwaterloo.ca/public-health-and-health-systems/). His research interests centre around the development and application of health information systems to support clinical decision-making and improve the quality of care in post-care and residential long-term care settings. 
