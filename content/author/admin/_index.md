@@ -86,4 +86,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Luke Turcotte is a [CIHR Health System Impact Fellow](http://www.cihr-irsc.gc.ca/e/51201.html) working jointly with the [Canadian Institute for Health Information](https://cihi.ca) and the [University of Waterloo](https://uwaterloo.ca/public-health-and-health-systems/). His research is centred around the development and application of health information systems to support clinical decision-making and improve the quality of care in post-care and residential long-term care settings. 
+Luke Turcotte is a [CIHR Health System Impact Fellow](http://www.cihr-irsc.gc.ca/e/51201.html) working jointly with the [Canadian Institute for Health Information](https://cihi.ca) and the [University of Waterloo](https://uwaterloo.ca/public-health-and-health-systems/). His research is centred around the development and application of health information systems to support clinical decision-making and improve the quality of care in post-acute and residential long-term care settings. 
